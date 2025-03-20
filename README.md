@@ -46,4 +46,8 @@ base ISA to enhance functionality. Below is an overview of the main components o
 ## Immediate Values:
 
 * Immediate values can be used as operands in various instructions, allowing for more efficient code.
+
+## Synthesis
+
+![image alt](https://github.com/shashankteli/Single-Cycle-Risc-v-Processor/blob/4e20408cf7ffc4dfdb6076c3b46cd40447f6f88f/Synthesis%20of%20top%20module.jpeg)
   
