@@ -50,4 +50,8 @@ base ISA to enhance functionality. Below is an overview of the main components o
 ## Synthesis
 
 ![image alt](https://github.com/shashankteli/Single-Cycle-Risc-v-Processor/blob/4e20408cf7ffc4dfdb6076c3b46cd40447f6f88f/Synthesis%20of%20top%20module.jpeg)
+
+## Simulation Results 
+
+![image alt](https://github.com/shashankteli/Single-Cycle-Risc-v-Processor/blob/762880b6d4030e2882e82f2a80afe42ac0105fa3/Simulation%20Results.jpeg)
   
