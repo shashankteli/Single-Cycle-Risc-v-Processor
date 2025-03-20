@@ -14,3 +14,28 @@ The main objective of this project is to design and implement a RISC-V single-cy
 
 The scope of this project goes beyond traditional processor design. It involves creating a RISC-V single-cycle processor, carefully selecting a set of instructions to maximize performance, and applying thorough verification techniques. By combining the robust architecture of RISC-V with comprehensive validation methods, this project aims to contribute to the evolution of processor architectures and verification standards.
 
+# RISC-V ISA (Instruction Set Architecture)
+
+The RISC-V ISA (Instruction Set Architecture) is designed to be modular and extensible,enabling flexibility and customization across various computing environments. The base integer ISA, referred to as RV32I (for 32-bit systems) or RV64I (for 64-bit systems), provides a minimal set of essential instructions. Additional standard extensions can be added to this
+base ISA to enhance functionality. Below is an overview of the main components of the RISC-V ISA:
+
+# Base Integer ISA (RV32I and RV64I)
+
+## Integer Registers:
+
+* RV32I includes 32 general-purpose integer registers, while RV64I includes 64.
+  
+* Register x0 is hardwired to zero and always holds the value zero.
+
+## Data Types:
+
+* Supports 8, 16, 32, and 64-bit integer data types.
+
+## Intructions:
+
+* Provides basic integer operations, load and store instructions, conditional branches, and jumps.
+* Includes arithmetic and logic instructions (such as add, subtract, AND, OR, XOR, and shift operations).
+* Load and store instructions are available for accessing memory.
+
+## Control Flow:
+
