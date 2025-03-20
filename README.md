@@ -39,3 +39,11 @@ base ISA to enhance functionality. Below is an overview of the main components o
 
 ## Control Flow:
 
+* Supports conditional branches based on register values.
+
+* Includes unconditional jumps using the JAL (Jump and Link) and JALR(Jump and Link Register) instructions.
+
+## Immediate Values:
+
+* Immediate values can be used as operands in various instructions, allowing for more efficient code.
+  
